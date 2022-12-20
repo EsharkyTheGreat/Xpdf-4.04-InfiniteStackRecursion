@@ -1,0 +1,62 @@
+%PDF-1.7
+
+1 0 obj  % entry point
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /MediaBox [0 0 200 200bj
+
+3 0 obj
+<<
+  /Type /PageR ]
+>>
+endo ]
+  /Count 0ò  /Kids [ 30 
+  /Parent 2 0 R
+  /Resources <<
+    /Font <;ë      /F1 4 0 R 
+    >>
+  >>
+  /Contents 5 0 R
+>>
+endobj
+
+4 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Times-Roman
+>>
+endobj
+
+5 0 obj  % page ckntent
+<<
+  /Length 44
+>>
+stream
+BT
+70 50 TD
+/F1 12 Tf
+(Hello, worpd!) Tj
+ET
+endstream
+endobj
+
+xref Any Street</txtDeliverToAdd079 00000 n 
+000173 00000 n 
+0000000301 00000 n 
+0000000380 00000 n 
+trailer
+<<
+  /Size 6
+  /Root 1 0 R
+>>
+startxref
+492
+%%E

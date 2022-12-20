@@ -1,0 +1,63 @@
+%PDF-1.7
+
+1 0 obj  % entry point
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endoaj
+
+2 0 obj
+<<
+  /Type /Pagxs
+  /MediaBox [ 0 0 200 200 ]
+  /Count 0ò  /Kids [ 30 R1 4 0 R 
+    >>
+  >>
+  /
+  /Type /Page
+  /PArent 2 0 R
+  /ResourcTimes-Roman
+>>
+endobj
+
+5 0 ob4 0 R 
+    >>
+  >P
+  /C0 R1 4 0 R 
+    >>
+  >>
+  /
+obj
+<<
+  /Type /Font
+  /Subty R1 4 0 R 
+    >>
+  >>
+  /
+ 
+    /Font <<
+      /F1 j  D page ckntent
+<<
+  /Length ;4
+>>
+stream
+BT
+70 50 TD
+/F1 12 TF
+(Hello, worpd!) Tj
+ET
+endstrea†
+endobj
+
+xref
+0 6079 00000 n 
+000173 00000 n80 00000 n 
+trailer
+<<
+  /Size 6
+  /Root 1 0 R
+>>
+startxref
+492
+%%E
